@@ -16,6 +16,10 @@
 
 !README.md
 !LICENSE
+!.dockerignore
+
+!Dockerfile
+!docker-compose.yml
 
 # !Makefile
 
